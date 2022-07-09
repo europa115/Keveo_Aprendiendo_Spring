@@ -1,0 +1,5 @@
+-Objetivo de funcionalidad: Registrar Usuarios y gestionarlos mediante el rol Admin.
+-Modificacion BBDD, eliminando campos de la tabla User.
+-Añadida la funcionalidad Lombok 
+-Modificacion en el yaml/ ddl-auto: update
+-Creacion de entity, repository, dto, service, controler y register.html
